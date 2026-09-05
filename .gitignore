@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node (para la API de JavaScript de Persona 2)
+node_modules/
+npm-debug.log
+
+# Sistema
+.DS_Store
+*.log
