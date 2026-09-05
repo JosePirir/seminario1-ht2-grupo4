@@ -4,9 +4,9 @@ Despliegue de APIs en Máquinas Virtuales con Balanceador de Carga en Azure.
 
 ## Estructura del repo
 
-- [`mi-parte/`](mi-parte) — API en Python (Flask), desplegada en **Instancia-1**.
+- [`python/`](python) — API en Python (Flask), desplegada en **Instancia-1**.
   Expone `/check` (health check) y `/info` (JSON con Instancia/Curso/Grupo).
-  Ver [mi-parte/README.md](mi-parte/README.md) para pasos de despliegue.
+  Ver [python/README.md](python/README.md) para pasos de despliegue.
 - API en JavaScript (Instancia-2) — pendiente (Persona 2).
 - Configuración del balanceador de carga (Load Balancer) — pendiente (Persona 3).
 
